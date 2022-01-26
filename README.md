@@ -26,8 +26,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardo2000almeida&show_icons=true&locale=en" alt="leonardo2000almeida" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo2000almeida&" alt="leonardo2000almeida" /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo2000almeida&" alt="leonardo2000almeida" /> </p>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p
   </body>
   </html>
