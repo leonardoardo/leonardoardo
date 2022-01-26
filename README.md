@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A Developer</h3>
+<br/>
 <p align="center">
   <img src="https://thumbs.gfycat.com/OldfashionedImpassionedBinturong-size_restricted.gif" alt="Sublime's custom image" style="border-radius:10px"/>
 </p>
