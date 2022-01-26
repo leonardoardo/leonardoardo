@@ -3,7 +3,9 @@
 <br />
 <p align="center">
   <img  
-       height="200" width="200"       src="https://png2.cleanpng.com/sh/a67bfc82162f45c41812bf97ca01c493/L0KzQYm3VMMxN5ZmiZH0aYP2gLBuTgdmal5pfehubHBzfbb1lL14bZMyfNdBZXzygLb5Tgdmal5pfeVyZ36wg7FtlQdiepYye9H1b4Kwgrb6lf1mNWZmfakEOULoQYTrhPU0NmkAS6Q7OES0QYa5VcEzP2U8SKIDMUSxgLBu/kisspng-web-development-web-developer-web-design-software-color-resume-5ae7992e13dde3.8932284115251274700814.png" alt="Sublime's custom image" />
+       height="200" width="200"    
+          style:"background-color: #fff"
+src="https://png2.cleanpng.com/sh/a67bfc82162f45c41812bf97ca01c493/L0KzQYm3VMMxN5ZmiZH0aYP2gLBuTgdmal5pfehubHBzfbb1lL14bZMyfNdBZXzygLb5Tgdmal5pfeVyZ36wg7FtlQdiepYye9H1b4Kwgrb6lf1mNWZmfakEOULoQYTrhPU0NmkAS6Q7OES0QYa5VcEzP2U8SKIDMUSxgLBu/kisspng-web-development-web-developer-web-design-software-color-resume-5ae7992e13dde3.8932284115251274700814.png" alt="Sublime's custom image" />
 </p>
 <br />
 <p align="left">
