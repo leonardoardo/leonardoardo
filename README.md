@@ -49,10 +49,11 @@
     <a href="https://www.postgresql.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
     </a>
+    
     <a href="https://www.docker.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/docker.svg
-" alt="postgresql" width="40" height="40" />
+        <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="postgresql" width="40" height="40" />
     </a>
+    
 </p>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardo2000almeida&show_icons=true&locale=en&layout=compact" alt="leonardo2000almeida" />
