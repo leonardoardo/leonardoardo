@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A Developer</h3>
-<img style="display: block;margin-left: auto;margin-right: auto; width: 50%;" src="https://thumbs.gfycat.com/OldfashionedImpassionedBinturong-size_restricted.gif"/>
+<p align="center">
+<img rc="https://thumbs.gfycat.com/OldfashionedImpassionedBinturong-size_restricted.gif"/>
+  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardo2000almeida&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo2000almeida" /> </p>
 
