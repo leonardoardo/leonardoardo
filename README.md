@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A Developer</h3>
 <p align="center">
-<img rc="https://thumbs.gfycat.com/OldfashionedImpassionedBinturong-size_restricted.gif"/>
-  </p>
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardo2000almeida&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo2000almeida" /> </p>
 
