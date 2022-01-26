@@ -53,11 +53,14 @@
         <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="postgresql" width="40" height="40" />
     </a>
 </p>
+<br/>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardo2000almeida&show_icons=true&locale=en&layout=compact" alt="leonardo2000almeida" />
 </p>
+<br/>
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardo2000almeida&show_icons=true&locale=en" alt="leonardo2000almeida" />
 </p>
+<br/>
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo2000almeida&" alt="leonardo2000almeida" />
 </p>
