@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <img  
-       height="200" width="200"    
+       height="500" width="500"    
           style:"background-color: #fff"
 src="https://i.imgur.com/uiA2zQ2.png" alt="Sublime's custom image" />
 </p>
