@@ -5,6 +5,8 @@
   <img src="https://thumbs.gfycat.com/OldfashionedImpassionedBinturong-size_restricted.gif" alt="Sublime's custom image" style="border-radius:10px"/>
 </p>
 
+<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardo2000almeida&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo2000almeida" /> </p>
 
 <h3 align="left">Connect with me:</h3>
