@@ -2,7 +2,7 @@
 <h3 align="center">A Developer</h3>
 <p align="center">
   <a>
-  <img src="https://thumbs.gfycat.com/OldfashionedImpassionedBinturong-size_restricted.gif" alt="Sublime's custom image" style="border-radius:50%"/>
+  <img src="https://thumbs.gfycat.com/OldfashionedImpassionedBinturong-size_restricted.gif" alt="Sublime's custom image" style="border-radius:10px"/>
   </a>
 </p>
 
